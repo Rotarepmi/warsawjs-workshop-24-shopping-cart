@@ -2,6 +2,8 @@
 
 App created for training purposes on the WarsawJS Workshop #24 - integration testing
 
+[![Build Status](https://travis-ci.org/Rotarepmi/warsawjs-workshop-24-shopping-cart.svg?branch=master)](https://travis-ci.org/Rotarepmi/warsawjs-workshop-24-shopping-cart)
+
 ## Prerequisites
 
 - Code editor (Webstorm is a good choice)
