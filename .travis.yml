@@ -1,1 +1,10 @@
 language: node_js
+node_js:
+  - "stable"
+before_install:
+  - "cs .."
+  - "git clone https://github.com/Rotarepmi/warsawjs-workshop-24-shopping-cart-api.git"
+  - "cd warsawjs-workshop-24-shopping-cart-api"
+  - "npm i"
+  - "npm run start &"
+  - "cd ../warsawjs-workshop-24-shopping-cart"
